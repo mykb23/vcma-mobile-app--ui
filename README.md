@@ -1,4 +1,6 @@
-# vcmapp
+# Virtual Card Management App
+
+![Virtual Card Management App UI](./app.gif)
 
 A new Flutter project.
 
